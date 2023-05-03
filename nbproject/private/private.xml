@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/imgs/imgfb/FB_IMG_16814047693446532.jpg</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/negocio/Agente.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/auxiliar2.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/dao/AgenteDao.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/util/JPAUtil.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/dao/DepositoDao.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/verificardeposito.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/index.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/css/estiloproj.css</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/util/NewMain.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/admin/home.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/hom.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/negocio/Estudante.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/controller/EstudanteServlet.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/admin/conta.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/admin/index.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/imgs/imgfb/FB_IMG_16814497011611285.jpg</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/admin/verificardeposito.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/admin/principal.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/admin/clientes.jsp</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/src/java/negocio/Servico.java</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/conta.html</file>
+            <file>file:/C:/Users/CAIRA/Documents/Nova%20pasta/projecto/banco/web/imgs/imgfb/FB_IMG_16814497119137464.jpg</file>
+        </group>
+    </open-files>
+</project-private>
